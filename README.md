@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sahil Senjaliya</h1>
-- 🔭 I’m currently working on [Student Management API using FastAPI and SQLite](https://github.com/SahilSenjaliya/Student-Management)
+<h3 align="center">Computer Engineering Student | Python Developer</h3>
 
-- 👯 I’m looking to collaborate on **Python Backend Development and Open Source Projects**
+- 🔭 I’m currently working on **python developer intern**
+
+- 🌱 I’m currently learning **Core Python,FASTAPI,RESTAPI**
+
+- 👨‍💻 All of my projects are available at [https://sahilsenjaliyaportfolio.netlify.app/](https://sahilsenjaliyaportfolio.netlify.app/)
+
+- 💬 Ask me about **Python, FastAPI, SQLite, REST APIs and GitHub**
 
 - 📫 How to reach me **sahilsenjaliya1809@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aqF9J_OmMgaCxqICDLHga9MoIRNCjFZR/view?usp=drive_link](https://drive.google.com/file/d/1aqF9J_OmMgaCxqICDLHga9MoIRNCjFZR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
