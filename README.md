@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Core Python,FASTAPI,RESTAPI**
 
-- 👨‍💻 All of my projects are available at [https://sahil-senjaliyaportfolio.netlify.app/p/](https://sahil-senjaliyaportfolio.netlify.app/p/)
+- 👨‍💻 All of my projects are available at [https://sahil-senjaliyaportfolio.netlify.app](https://sahil-senjaliyaportfolio.netlify.app)
 
 - 💬 Ask me about **Python, FastAPI, SQLite, REST APIs and GitHub**
 
